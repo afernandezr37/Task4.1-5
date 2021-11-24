@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task4.1-5</string>
+    <string-array name="phone_type_array">
+        <item>Other</item>
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+
+</resources>
